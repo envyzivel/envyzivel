@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Eve
+- 🌱 I’m currently learning JS, HMTL and CSS
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: Love read books
